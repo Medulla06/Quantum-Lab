@@ -9,27 +9,27 @@ The objective of this lab is to gain hands-on experience with quantum circuits a
 
 ## Content
 
-1. Lab 1 - Quantum Gates and Quantum Circuits
-2. Lab 2 - Quantum Communication
+1. Lab1 - Quantum Gates and Quantum Circuits
+2. Lab2 - Quantum Communication
   * Quantum Entanglement
   * Quantum Key Distribution (QKD)
   * Quantum Teleportation
 
-3. Lab 3 - Quantum Algorithms I
+3. Lab3 - Quantum Algorithms I
   * Deutsch–Jozsa Algorithm
   * Grover’s Search Algorithm
     
-4. Lab 4 - Quantum Algorithms II
+4. Lab4 - Quantum Algorithms II
   * Quantum Fourier Transform (QFT)
   * Quantum Phase Estimation (QPE)
 
-5. Lab 5 - HHL Algorithm (Harrow–Hassidim–Lloyd Algorithm)
+5. Lab5 - HHL Algorithm (Harrow–Hassidim–Lloyd Algorithm)
 
-6. Lab 6 - Quantum Error Correction
+6. Lab6 - Quantum Error Correction
 
-7. Lab 7 - Variational Quantum Eigensolver (VQE)
+7. Lab7 - Variational Quantum Eigensolver (VQE)
 
-8. Lab 8 - Error Mitigation Techniques in Quantum Computing
+8. Lab8 - Error Mitigation Techniques in Quantum Computing
 
 ## References
 
