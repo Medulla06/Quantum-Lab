@@ -18,9 +18,6 @@ The objective of this lab is to gain hands-on experience with quantum circuits a
 ## Content
 
 1. Quantum Gates and Quantum Circuits
-
----
-
 2. Quantum Communication
   * Quantum Entanglement
   * Quantum Key Distribution (QKD)
