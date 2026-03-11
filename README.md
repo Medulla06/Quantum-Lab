@@ -7,35 +7,29 @@ The objective of this lab is to gain hands-on experience with quantum circuits a
 
 ---
 
-## Technologies Used
-
-* Python 3.x
-* Qiskit
-* Jupyter Notebook / Python Scripts
-
----
-
 ## Content
 
-1. Quantum Gates and Quantum Circuits
-2. Quantum Communication
+1. Lab 1 - Quantum Gates and Quantum Circuits
+2. Lab 2 - Quantum Communication
   * Quantum Entanglement
   * Quantum Key Distribution (QKD)
   * Quantum Teleportation
 
-3. Quantum Algorithms I
+3. Lab 3 - Quantum Algorithms I
   * Deutsch–Jozsa Algorithm
   * Grover’s Search Algorithm
+    
+4. Lab 4 - Quantum Algorithms II
   * Quantum Fourier Transform (QFT)
   * Quantum Phase Estimation (QPE)
 
-4. HHL Algorithm (Harrow–Hassidim–Lloyd Algorithm)
+5. Lab 5 - HHL Algorithm (Harrow–Hassidim–Lloyd Algorithm)
 
-5. Quantum Error Correction
+6. Lab 6 - Quantum Error Correction
 
-6.  Variational Quantum Eigensolver (VQE)
+7. Lab 7 - Variational Quantum Eigensolver (VQE)
 
-7. Error Mitigation Techniques in Quantum Computing
+8. Lab 8 - Error Mitigation Techniques in Quantum Computing
 
 ## References
 
